@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi!👋 I'm Aril
 
-<!--
-**Arilsaputra854/Arilsaputra854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer who creates several mobile and website projects based on Dart or JavaScript. I really love Dart!
 
-Here are some ideas to get you started:
+Currently, I am an IT Support, Coding Teacher, and CTO at the company Ouseans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on @Ouseans
+- 🌱 I’m currently learning about Develop a Mobile Application
+- 💬 Ask me about Dart or Flutter
+- 📫 How to reach me: arilsaputra854@gmail.com
+- ⚡ Fun fact: Book Lovers
+
+
